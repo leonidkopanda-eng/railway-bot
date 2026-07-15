@@ -1,4 +1,3 @@
 aiogram==2.25.1
-telethon==1.34.0
-aiohttp==3.9.5
-gunicorn
+telethon==1.38.0
+python-dotenv==1.0.0
